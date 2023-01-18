@@ -1,0 +1,9 @@
+.articles{
+  display: flex;
+  justify-content: center;
+}
+
+.articles_main {
+  display: flex;
+  justify-content: center;
+}

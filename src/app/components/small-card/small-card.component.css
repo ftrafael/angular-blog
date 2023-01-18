@@ -1,0 +1,17 @@
+.container-small_card{
+  width: 420px;
+  height: 120px;
+
+  display: flex;
+}
+
+.photo-small_card{
+  margin: 10px 10px 5px 5px;
+  width: 150px;
+  height: 100%;
+}
+
+
+.p-small_card{
+  margin: 10px 10px 10px 5px;
+}
