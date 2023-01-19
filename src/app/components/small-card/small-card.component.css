@@ -1,17 +1,22 @@
 .container-small_card{
   width: 420px;
-  height: 120px;
+}
 
+.container-small_card_content {
   display: flex;
+  flex-direction: row;
 }
 
 .photo-small_card{
-  margin: 10px 10px 5px 5px;
   width: 150px;
   height: 100%;
 }
 
-
 .p-small_card{
   margin: 10px 10px 10px 5px;
+}
+
+.separator-small_card{
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
